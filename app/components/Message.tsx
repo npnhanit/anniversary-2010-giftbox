@@ -253,9 +253,9 @@ export default function Message() {
           🌟
         </motion.div>
         <h3 className="text-2xl sm:text-3xl md:text-4xl font-bold pacifico text-white drop-shadow-lg">
-          Anh chúc em
-          <br />
           Chọn vào lời chúc để xem nhiều hơn nha em
+          <br />
+          Anh chúc em
         </h3>
       </motion.div>
 

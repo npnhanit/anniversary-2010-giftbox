@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Inter:wght@300;400;500;600;700;800&family=Be+Vietnam+Pro:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700;800&family=Be+Vietnam+Pro:wght@300;400;500;600;700&display=swap');
 
 * {
   margin: 0;
@@ -18,7 +18,8 @@ body {
 }
 
 .pacifico {
-  font-family: 'Pacifico', cursive;
+  font-family: 'Dancing Script', cursive;
+  font-weight: 600;
 }
 
 .gradient-text {
