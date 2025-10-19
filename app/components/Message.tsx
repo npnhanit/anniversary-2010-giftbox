@@ -389,7 +389,7 @@ Làm cuộc đời anh thêm ý nghĩa!`
                           Thơ tặng em
                         </h4>
                       </div>
-                      <div className="text-white/90 text-sm sm:text-base leading-relaxed whitespace-pre-line font-light italic pl-2 border-l-2 border-white/40">
+                      <div className="poem-text text-white/90 text-sm sm:text-base md:text-lg whitespace-pre-line font-normal pl-4 border-l-2 border-white/40">
                         {wish.poem}
                       </div>
                       <div className="mt-4 text-right">
